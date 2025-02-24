@@ -1,4 +1,14 @@
-# Serena's Portfolio
+# Serena's Next.js template
+Below is my template for new Next.js apps, to save me on the repeated setup.
+
+Key dependencies already installed:
+- **Router** - Next.js App Router
+- **Testing** - Jest
+- **CSS** - tailwind
+- **Component lib** - MUI
+
+# < Name of your repo here >
+
 Check this out at: TBC
 
 *Change the urls in the badges below to match your repo:*
